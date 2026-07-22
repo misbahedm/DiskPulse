@@ -3,6 +3,8 @@
 A lightweight Windows desktop app that watches the S.M.A.R.T. health of your
 internal HDDs/SSDs/NVMe drives and warns you before they fail.
 
+Windows Exe Download https://github.com/misbahedm/DiskPulse/releases/download/DiskPulse/DiskPulse.v1.0.0.exe
+
 ## Features
 
 - Auto-detects all physical drives (HDD, SATA SSD, NVMe) with a type tag
